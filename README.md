@@ -27,6 +27,7 @@
 * 最近半年对HTTP服务器方面产生巨大兴趣。帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。并且一直在做一个在线比赛系统。
 * 用过或者正在用Nginx,Mysq,Postgresql,Memcached,Redis等。之前用Python通过Tornado，Flask实现后端逻辑，最近自己用C写了个<a href="https://github.com/henyouqian/local_httpd">HTTP服务器(select版本)</a>，重新实现我的<a href="https://github.com/henyouqian/cmatch2">比赛系统(epoll版本)</a>。
 * 之前一直为公司为个人写代码做东西，今后想参与到一些开源项目中去，在开源社区中学习并贡献自己的力量。我想这应该是我今后比较重要的一个方向。但这不代表我会损害公司的商业利益，公私分明是绝对明确的。
+* 英语阅读没问题，说和写有问题，有机会练练应该也没问题。
 
 ##择业方向
 * 希望是创造性的工作，雇主尊重知识产权，懂得职业操守，借鉴也是选择性的借鉴，然后加入自己独特的特性和设计，不认同的勿扰。
