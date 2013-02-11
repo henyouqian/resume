@@ -23,6 +23,10 @@
 * 最擅长的语言是C/C++，不倾向使用C++模板元编程和复杂的设计模式。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
 * 会一些Objective-C，Python，Javascript。
 * 常用的IDE有Visual studio，Xcode, Code lite。在Windows，OS X，Linux下都能进行开发工作。
-* 之前一直做客户端，对于某些类型的游戏逻辑设计和实现有着一些经验。对于游戏引擎有着一定程度的了解。我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。而对于3D图像方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2。
+* 之前一直做客户端，对客户端逻辑比较熟。引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。数学是软肋，可以借助一些库做事情，但比如要我写个刚体物理库，够呛。
+* 最近半年对http服务器方面产生巨大兴趣。使用nginx，mysql，tornado，flask帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。
 
 ##择业方向
+* 希望是创造性的工作。借鉴也是选择性的借鉴，然后加入自己独特的特性和设计，无底限的抄还是算了。
+* 不要管理性为主，要设计和技术性为主。要有充足时间学习技术和写代码。
+* 
