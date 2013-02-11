@@ -23,11 +23,12 @@
 * 最常用的语言是C/C++，不倾向使用C++模板元编程和复杂的设计模式。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
 * 能用Objective-C，Python，Javascript，Lua，SQL等做相应的事情。
 * Windows，OS X，Linux都经常用，并且都能进行开发工作。常用的IDE有Visual studio，Xcode, Code lite。
-* 之前一直做客户端，对客户端逻辑比较熟。引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。
+* 之前主要做客户端，对客户端逻辑比较熟，而服务器方面只涉及逻辑部分，都在框架都是别人搭好的。游戏引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。
 * 最近半年对HTTP服务器方面产生巨大兴趣。帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。并且一直在做一个在线比赛系统。
 * 用过或者正在用Nginx,Mysq,Postgresql,Memcached,Redis等。之前用Python通过Tornado，Flask实现后端逻辑，最近自己用C写了个<a href="https://github.com/henyouqian/local_httpd">HTTP服务器(select版本)</a>，重新实现我的<a href="https://github.com/henyouqian/cmatch2">比赛系统(epoll版本)</a>。
 * 之前一直为公司为个人写代码做东西，今后想参与到一些开源项目中去，在开源社区中学习并贡献自己的力量。我想这应该是我今后比较重要的一个方向。但这不代表我会损害公司的商业利益，公私分明是绝对明确的。
 * 英语阅读没问题，说和写有问题，但有机会练练应该就没问题了。
+* 因为最早想要成为3D动画和特效大师（在学程序之前），玩过好几年Maya，比一般3D美工都更为熟悉，所以对于美术到程序的环节有比较好的理解，理解双方面的需求。
 
 ##择业方向
 * 希望是创造性的工作，雇主尊重知识产权，懂得职业操守，借鉴也是选择性的借鉴，然后加入自己独特的特性和设计，不认同的勿扰。
