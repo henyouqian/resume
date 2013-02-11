@@ -20,13 +20,16 @@
 * 2004 参与开发mmorpg《帝国传奇》，任3D美工。负责人物建模，动画，和渲染，以及编写自动化渲染脚本。
 
 ##专业介绍
-* 最擅长的语言是C/C++，不倾向使用C++模板元编程和复杂的设计模式。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
-* 会一些Objective-C，Python，Javascript。
-* 常用的IDE有Visual studio，Xcode, Code lite。在Windows，OS X，Linux下都能进行开发工作。
+* 最常用的语言是C/C++，不倾向使用C++模板元编程和复杂的设计模式。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
+* 能用Objective-C，Python，Javascript，Lua，SQL等做相应的事情。
+* Windows，OS X，Linux都经常用，并且都能进行开发工作。常用的IDE有Visual studio，Xcode, Code lite。Vim只会简单文本编辑，Emacs没用过。
 * 之前一直做客户端，对客户端逻辑比较熟。引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。数学是软肋，可以借助一些库做事情，但比如要我写个刚体物理库，够呛。
-* 最近半年对http服务器方面产生巨大兴趣。使用nginx，mysql，tornado，flask帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。
+* 最近半年对HTTP服务器方面产生巨大兴趣。帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。并且一直在做一个在线比赛系统。
+* 用过或者正在用Nginx,Mysq,Postgresql,Memcached,Redis等。之前用Python通过tornado，flask实现后端逻辑，最近自己用C写了个<a href="https://github.com/henyouqian/local_httpd">HTTP服务器(select版本)</a>，重新实现我的<a href="https://github.com/henyouqian/cmatch2">比赛系统(epoll版本)</a>。
+* 
 
 ##择业方向
 * 希望是创造性的工作。借鉴也是选择性的借鉴，然后加入自己独特的特性和设计，无底限的抄还是算了。
-* 不要管理性为主，要设计和技术性为主。要有充足时间学习技术和写代码。
+* 希望以设计和技术性为主，不希望管理为主。有充足时间学习研究和写代码。
+* 倾向小型快速的项目。
 * 
