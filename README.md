@@ -22,7 +22,7 @@
 ##专业介绍
 * 最常用的语言是C/C++，不倾向使用C++模板元编程和复杂的设计模式。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
 * 能用Objective-C，Python，Javascript，Lua，SQL等做相应的事情。
-* Windows，OS X，Linux都经常用，并且都能进行开发工作。常用的IDE有Visual studio，Xcode, Code lite。Vim只会简单文本编辑，Emacs没用过。
+* Windows，OS X，Linux都经常用，并且都能进行开发工作。常用的IDE有Visual studio，Xcode, Code lite。
 * 之前一直做客户端，对客户端逻辑比较熟。引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。数学是软肋，可以借助一些库做事情，但比如要我写个刚体物理库，够呛。
 * 最近半年对HTTP服务器方面产生巨大兴趣。帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。并且一直在做一个在线比赛系统。
 * 用过或者正在用Nginx,Mysq,Postgresql,Memcached,Redis等。之前用Python通过Tornado，Flask实现后端逻辑，最近自己用C写了个<a href="https://github.com/henyouqian/local_httpd">HTTP服务器(select版本)</a>，重新实现我的<a href="https://github.com/henyouqian/cmatch2">比赛系统(epoll版本)</a>。
