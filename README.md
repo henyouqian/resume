@@ -21,7 +21,7 @@
 
 ##专业介绍
 * 最常用的语言是C/C++，不倾向使用C++模板元编程和复杂的设计模式。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
-* 能用Objective-C，Python，Javascript，Lua，SQL等做相应的事情。
+* 能用Objective-C，Python，Javascript，Lua，SQL等完成相应的工作。
 * Windows，OS X，Linux都经常用，并且都能进行开发工作。常用的IDE有Visual studio，Xcode, Code lite。
 * 之前主要做客户端，对客户端逻辑比较熟，而服务器方面只涉及逻辑部分，都在框架都是别人搭好的。游戏引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。
 * 最近半年对HTTP服务器方面产生巨大兴趣。帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。并且一直在做一个在线比赛系统。
