@@ -3,39 +3,37 @@
 ##基本资料
 李炜，男，1982年9月17日出生，浙江杭州人。  
 2005年毕业于杭州师范大学生命科学院环境科学专业，本科。  
-联系电话：15921062294，Email：henyouqian@gmail.com。
+联系电话：15921062294，Email：103638667@qq.com henyouqian@gmail.com。
 
 ##工作经历
-* 2012.2-3012.5 自主开发成人小品游戏《逼逼逼逼逼》，一款有着独一无二的世界观和玩法的游戏。<a href="https://itunes.apple.com/cn/app/bi-bi-bi-bi-bi/id547257609?mt=8">[App store link]</a>
-* 2010.9-2011.9 开发《Finger Balance》（中文名《手指平衡》），由Coconut Island发行。负责从创意到设计到程序，除美术外的几乎所有工作。此游戏获得<a href="http://www.imgawards.com/EN/previous-years-7th.php">第七届International Mobile Gaming Awards(IMGA)</a>中<a href="http://www.imgawards.com/EN/previous-years-fiche.php?gameid=718&categoryid=16&starDate=2010&endDate=2012&imga=7">MOST INNOVATIVE GAME</a>提名。此届提名中不乏《Fruit Ninja》《Plants vs. Zombies》《Infinity Blade》《Real Racing 2》等知名作品。此游戏取得过美国收费总榜第六，多个国家分类榜第一，Lite版本取得过包括美国在内的多个国家免费总榜第一。是国人开发的游戏中鲜有的好成绩（刷榜除外）。<a href="https://itunes.apple.com/us/app/finger-balance/id368180844?mt=8">[App store link]</a>
+* 2015 因无法忍受iOS审核效率，学习web前端。拼图游戏使用web重新实现了一遍。并且开发了一系列适用于微信平台的移动web小游戏和应用。其中一些是利用web socket联机对战。微信关注《二店长的小游戏》即可玩到。
+* 2014 自主开发iOS拼图游戏《蛮拼的》。熟悉了iOS下app开发流程。
+* 2013 上海嘉和 开发卡牌游戏《英雄别嚣张》（未发行），负责服务器端开发。
+* 2012.2-2012.5 自主开发成人小品游戏《逼逼逼逼逼》，一款有着独一无二的世界观和玩法的游戏。<a href="https://itunes.apple.com/cn/app/bi-bi-bi-bi-bi/id547257609?mt=8">[App store link]</a>
+* 2010.9-2011.9 Coconut Island。开发《Finger Balance》（中文名《手指平衡》），负责创意，设计和程序。此游戏获<a href="http://www.imgawards.com/EN/previous-years-7th.php">第七届International Mobile Gaming Awards(IMGA)</a>中<a href="http://www.imgawards.com/EN/previous-years-fiche.php?gameid=718&categoryid=16&starDate=2010&endDate=2012&imga=7">MOST INNOVATIVE GAME</a>提名。取得过美国收费总榜第六，多个国家分类榜第一，Lite版本取得过包括美国在内的多个国家免费总榜第一。<a href="https://itunes.apple.com/us/app/finger-balance/id368180844?mt=8">[App store link]</a>
 * 2007.5-2010.9 Konami上海，担任高级程序员。
   * 参与一个音乐舞蹈游戏的大部分设计和逻辑实现，包括游戏玩法，舞台效果表现，换装系统等。
   * 负责一个类似Mario kart的赛车游戏的主要客户端游戏逻辑，包括赛车的操控和物理表现。
   * 参与一套After effect制作的动态UI的控件编码及部分设计工作。
   * 改进完善一个3D引擎。编写了若干加快工作流程的工具和插件，例如Maya 2D骨骼动画编辑导出插件。
-  * 编写HYPER SPORTS Track&Field中的链球部分。<a href="https://itunes.apple.com/jp/app/hyper-sports-track-field/id368489398?l=en&mt=8">[App store link]</a>
+  * 编写HYPER SPORTS Track&Field中的链球和跳远部分。<a href="https://itunes.apple.com/jp/app/hyper-sports-track-field/id368489398?l=en&mt=8">[App store link]</a>
   * 完成一个跨平台2d游戏框架（IOS，Windows，OS X）。
   * 对wii和xbox360开发环境有过粗浅的学习和了解。
 * 2006.5-2007.5 千峰云起信息科技有限公司，开发MMORPG《幻想学园》。负责服务端和客户端的游戏逻辑。
 * 2005.6-2006.5 杭州海之童互动数字科技有限公司，开发MMORPG《童年online》。负责服务端和客户端的游戏逻辑。
-* 2004.3-2004.12(在校期间，全职逃课) 参与开发mmorpg《帝国传奇》，任3D美工。负责人物建模，动画，和渲染，以及编写自动化渲染脚本。
+* 2004.3-2004.12(在校) 参与开发MMORPG《帝国传奇》，任3D美工。负责人物建模，动画，和渲染，以及编写自动化渲染脚本。
 
 ##专业介绍
-* 无专门带队经验，自己负责的项目也是以开放合作的形式完成。在konami工作时期，有长期带新人经验，并收到非常好的评价，我也十分愿意分享自己的经验和技术。
-* 最常用的语言是C/C++，基本每天都写。喜欢简单，轻便，易读的代码，以及这样的代码写的库。
-* 能用Objective-C，Python，Javascript，Lua，SQL等完成相应的工作。
-* Windows，OS X，Linux都经常用，并且都能进行开发工作。常用的IDE有Visual studio，Xcode, Code lite。
-* 之前主要做客户端，对客户端逻辑比较熟，而服务器方面只涉及逻辑部分，都在框架都是别人搭好的。游戏引擎方面也过的去，我个人的iphone游戏都基于自己写的<a href="https://github.com/henyouqian/lwtf">2d游戏引擎</a>开发。3D图形方面也有一定的了解，从之前的D3dx9到现在用的OpenGLES2，精通说不上，还是做过蛮多相关的事情。
-* 最近半年对HTTP服务器方面很有兴趣。帮朋友写过一个调查问卷以及帮<a href="http://www.letv.com/">乐视网</a>写过一个抽奖活动。并且一直在做一个在线比赛系统。
-* 用过或者正在用Nginx,Mysq,Postgresql,Memcached,Redis等网络技术。之前用Python通过Tornado，Flask实现后端逻辑，最近自己用C写了个<a href="https://github.com/henyouqian/local_httpd">HTTP服务器(select版本)</a>，重新实现我的<a href="https://github.com/henyouqian/cmatch2">比赛系统(epoll版本)</a>。
-* 在开源社区中学习并贡献自己的力量是我一直要做的事情。并且绝不损害公司的商业利益。
-* 英语阅读没问题，说和写有问题，但有机会用的话相信也不是问题。
-* 因为最早想要成为3D动画和特效大师（在学程序之前），玩过好几年Maya，比一般3D美工都更为熟悉，所以对于美术到程序的环节有较为深入的认识，理解双方的需求。
+* 2015 web前端，使用以jquery+bootstrap为基础的单页面技术，下半年有尝试使用react+webPack+ES6等新技术。js方面完全为了实现想法，有实战经验，但掌握的并不深入。服务器用的是go+ssdb，目前来说非常喜欢这个组合。
+* 2014 写iOS app，对Objctive-c xcode那套比较熟悉。
+* 2013 前期使用python web框架Tornado+PostgreSQL，后期改用go＋redis＋PostgreSQL。这一年第一次系统的做服务器。
+* 之前主要做客户端，主要用C/C++，包括iOS开发也是。
+* 不会Unity，Cocos2d-x稍有用过。
 
 ##择业方向
-* 主要有两个大方向：一是擅长的领域，例如使用C/C++开发游戏。二是做HTTP服务器后端相关工作。
-* 希望是创造性的工作，雇主尊重知识产权，懂得职业操守。
-* 希望以设计和技术性为主，不希望以管理为主。有充足时间学习研究和写代码。
-* 倾向小型快速的项目，比较新的项目，不希望做烂尾的项目。
-* 结合上面两条，如果做我擅长的工作，例如开发ios游戏，我愿意负责5人以下的项目，当然单纯的写程序或部分设计工作也没问题。如果做服务器端的工作，还是希望在一个学习和研究的位置，毕竟没有足够的经验，除非您能够信任我并且承担得起相应的风险。
-* 工作地点要在上海。我目前住上海影城附近（近徐家汇），工作地点要是能交通便利，如果能近点就最好了。
+* 项目要新，要小，要好玩（重点）。
+* 可以是游戏可以不是。
+* 目前对web兴趣高于app。
+* 做设计做技术，不要管人为主。
+* 工作地点在杭州。要是能交通便利，离市区近点就最好了。
+* 加班当然没问题，不要死命加，持续加。
