@@ -3,7 +3,9 @@
 ##基本资料
 李炜，男，1982年9月17日出生，浙江杭州人。  
 2005年毕业于杭州师范大学生命科学院环境科学专业，本科。  
-联系电话：15921062294，Email：103638667@qq.com henyouqian@gmail.com。
+联系电话：15921062294
+微信：adultsonly <img src="http://7xo7po.com1.z0.glb.clouddn.com/weixinQr.jpg" style="width:96px;heigth:96px"/>
+
 
 ##工作经历
 * 2015 开发了一系列适用于微信平台的移动web小游戏和应用。其中一些是利用web socket联机对战。微信关注《二店长的小游戏》即可玩到。
