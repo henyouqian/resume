@@ -4,7 +4,8 @@
 李炜，男，1982年9月17日出生，浙江杭州人。  
 2005年毕业于杭州师范大学生命科学院环境科学专业，本科。  
 联系电话：15921062294
-微信：adultsonly <img src="http://7xo7po.com1.z0.glb.clouddn.com/weixinQr.jpg" style="width:96px;heigth:96px"/>
+微信：adultsonly 
+<div style="width:96px;heigth:96px"><img src="http://7xo7po.com1.z0.glb.clouddn.com/weixinQr.jpg"/></div>
 
 
 ##工作经历
