@@ -29,8 +29,8 @@
 ##专业介绍
 * 2015 web前端，使用以jquery+bootstrap为基础的单页面技术，下半年有尝试使用react+webPack+ES6等新技术。js方面完全为了实现想法，有实战经验，但掌握的并不深入。服务器用的是go+ssdb，目前来说非常喜欢这个组合。
 * 2014 写iOS app，对Objctive-c xcode那套比较熟悉。
-* 2013 前期使用python web框架Tornado+PostgreSQL，后期改用go＋redis＋PostgreSQL。这一年第一次系统的做服务器。
-* 之前主要做客户端，主要用C/C++，包括iOS开发也是。
+* 2013 这一年第一次系统的做服务器，前期使用python web框架Tornado+PostgreSQL，后期改用go＋redis＋PostgreSQL。
+* 之前主要做游戏客户端，主要用C/C++，包括iOS开发也是。
 * 不会Unity，Cocos2d-x稍有用过。
 
 ##择业方向
