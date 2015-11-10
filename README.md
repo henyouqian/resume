@@ -10,7 +10,7 @@
 
 
 ##工作经历
-* 2015 开发了一系列适用于微信平台的移动web小游戏和应用。其中一些是利用web socket联机对战。微信关注《二店长的小游戏》即可玩到。
+* 2015 开发了一系列适用于微信平台的移动web小游戏和应用。其中一些是利用web socket联机对战。微信关注<a href="http://mp.weixin.qq.com/s?__biz=MzAxNDQyMjM4Ng==&mid=221847240&idx=1&sn=e7177e03a3b1800d221eafcad7e44d5c&scene=0#wechat_redirect">《二店长的小游戏》</a>即可玩到。
 * 2014 自主开发iOS拼图游戏《蛮拼的》。熟悉了iOS下app开发流程。因无法忍受iOS审核效率，学习web前端。拼图游戏使用web重新实现了一遍。<a href="http://g.pintugame.com/timeline.html">点击试玩网页版</a>
 * 2013 上海嘉和 开发卡牌游戏《英雄别嚣张》（未发行），负责服务器端开发。
 * 2012 自主开发成人小品游戏《逼逼逼逼逼》，一款有着独一无二的世界观和玩法的游戏,在appstore上广受好评。<a href="https://itunes.apple.com/cn/app/bi-bi-bi-bi-bi/id547257609?mt=8">[App store link]</a>（账号过期已下架😂）<a href="http://www.app111.com/doc/100035467_1.html">只能看攻略了解一下</a>
