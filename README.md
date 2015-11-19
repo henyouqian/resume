@@ -32,11 +32,11 @@
 * 2014 写iOS app，对Objctive-c xcode那套比较熟悉。
 * 2013 这一年第一次系统的做服务器，前期使用python web框架Tornado+PostgreSQL，后期改用go＋redis＋PostgreSQL。
 * 之前主要做游戏客户端，主要用C/C++，包括iOS开发也是。
-* 不会Unity，Cocos2d-x稍有用过。
+* 不会Unity，Cocos2d-x用过。
 
 ##择业方向
 * 项目最好要新，要小，要好玩。
 * 可以是游戏可以不是。
-* 目前对web兴趣高于app。
+* web native的都可以。
 * 做设计做技术，不要管人为主。
 * 工作地点在杭州。要是能交通便利，离市区近点就最好了。
