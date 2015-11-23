@@ -3,10 +3,10 @@
 ##基本资料
 李炜，男，1982年9月17日出生，浙江杭州人。  
 2005年毕业于杭州师范大学生命科学院环境科学专业，本科。  
-电话：15921062294
-邮箱：103638667@qq.com henyouqian@gmail.com
-qq：103638667
-微信：adultsonly
+* 电话：15921062294
+* 邮箱：103638667@qq.com henyouqian@gmail.com
+* qq：103638667
+* 微信：adultsonly
 <div style="width:128px;heigth:128px"><img src="http://7xo7po.com1.z0.glb.clouddn.com/weixinQr.png"/></div>
 
 
