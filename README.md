@@ -7,8 +7,6 @@
 * 邮箱：103638667@qq.com henyouqian@gmail.com
 * qq：103638667
 * 微信：adultsonly
-<div style="width:128px;heigth:128px"><img src="http://7xo7po.com1.z0.glb.clouddn.com/weixinQr.png"/></div>
-
 
 ##工作经历
 * 2015 开发了一系列适用于微信平台的移动web小游戏和应用。其中一些是利用web socket联机对战。微信关注公众号<a href="http://mp.weixin.qq.com/s?__biz=MzAxNDQyMjM4Ng==&mid=221847240&idx=1&sn=e7177e03a3b1800d221eafcad7e44d5c&scene=0#wechat_redirect">“二店长的小游戏”</a>即可玩到。
