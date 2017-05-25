@@ -15,7 +15,7 @@
 * 2014 自主开发iOS拼图游戏《蛮拼的》。熟悉了iOS下app开发流程。因无法忍受iOS审核效率，学习web前端。拼图游戏使用web重新实现了一遍。<a href="http://g.pintugame.com/timeline.html">点击试玩网页版</a>
 * 2013 上海迦禾网络科技有限公司 开发卡牌游戏《英雄别嚣张》（未发行），负责服务器端开发。
 * 2012 自主开发成人小品游戏《逼逼逼逼逼》，一款有着独一无二的世界观和玩法的游戏,在appstore上广受好评。<a href="https://itunes.apple.com/cn/app/bi-bi-bi-bi-bi/id547257609?mt=8">[App store link]</a>（账号过期已下架😂）<a href="http://www.app111.com/doc/100035467_1.html">只能看攻略了解一下</a>
-* 2010.9-2011.9 Coconut Island。开发《Finger Balance》（中文名《手指平衡》），负责创意、设计和程序。此游戏获<a href="http://www.imgawards.com/EN/previous-years-7th.php">第七届International Mobile Gaming Awards(IMGA)</a>中<a href="http://www.imgawards.com/EN/previous-years-fiche.php?gameid=718&categoryid=16&starDate=2010&endDate=2012&imga=7">MOST INNOVATIVE GAME</a>提名。取得过美国收费总榜第六，多个国家分类榜第一，Lite版本取得过包括美国在内的多个国家免费总榜第一。<a href="https://itunes.apple.com/us/app/finger-balance/id368180844?mt=8">[App store link]</a>
+* 2010.9-2011.9 Coconut Island。开发《Finger Balance》（中文名《手指平衡》），负责创意、设计和程序。此游戏获<a href="http://www.imgawards.com/winners-nominees/7th-imga/">第七届International Mobile Gaming Awards(IMGA)</a>中<a href="http://www.imgawards.com/games/finger-balance/">MOST INNOVATIVE GAME</a>提名。取得过美国收费总榜第六，多个国家分类榜第一，Lite版本取得过包括美国在内的多个国家免费总榜第一。<a href="https://itunes.apple.com/us/app/finger-balance/id368180844?mt=8">[App store link]</a>
 * 2007.5-2010.9 Konami上海，担任高级程序员。
   * 参与一个音乐舞蹈游戏的大部分设计和逻辑实现，包括游戏玩法，舞台效果表现，换装系统等。
   * 负责一个类似Mario kart的赛车游戏的主要客户端游戏逻辑，包括赛车的操控和物理表现。
